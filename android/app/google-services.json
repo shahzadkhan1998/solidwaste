@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920051576706",
+    "project_id": "solidwasteflutter",
+    "storage_bucket": "solidwasteflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920051576706:android:99195920ab00c2f9fa699b",
+        "android_client_info": {
+          "package_name": "com.js.solidwaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920051576706-nublmii2ht4mu25mi8486dk92njlr5v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDseSEjGjOi156U_-d-Cg04zExxRZ7bWLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920051576706-nublmii2ht4mu25mi8486dk92njlr5v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
